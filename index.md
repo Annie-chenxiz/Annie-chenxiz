@@ -18,7 +18,6 @@
 
 </div>
 
-
 <h2>Research Interests</h2>
 
 <ul>
@@ -46,7 +45,7 @@
   </li>
 </ul>
 
-<h2>CV</h2>
+<h2>Curriculum vitae</h2>
 
 <p>
   You can find my CV here: <a href="Annie_Zhou_CV.pdf">CV</a>.
