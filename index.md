@@ -10,6 +10,7 @@
 
     <p>
       I am an incoming Ph.D. student in Curriculum and Instruction at the University of Wisconsin–Madison, advised by <a href="https://berland.org/">Prof. Matthew Berland</a>. As a learner, designer, and educator, I am committed to designing meaningful and engaging learning experiences that support diverse learners across contexts.
+      You can find my CV here: <a href="Annie_Zhou_CV.pdf">CV</a>.
     </p>
 
   </div>
@@ -45,8 +46,10 @@
   </li>
 </ul>
 
-<h2>Curriculum vitae</h2>
+<h2>Conference Presentations</h2>
 
 <p>
-  You can find my CV here: <a href="Annie_Zhou_CV.pdf">CV</a>.
+<li><strong>Zhou, A.</strong> (2026, April). Student Self-Positioning and the Development of Mathematical Competencies. Roundtable session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).</li>
+<li>Quintana, R. M. & <strong>Zhou, A.</strong> (2026, April). Using affordance analysis to strategize the integration of AI-generated instructor avatars within MOOCs. Poster session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).</li>
+
 </p>
