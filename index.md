@@ -14,7 +14,7 @@
 
   </div>
 
-  <img src="./headshot.jpeg" alt="Profile photo" width="180" style="border-radius: 8px;">
+  <img src="./Annie Zhou_Headshot.jpeg" alt="Profile photo" width="180" style="border-radius: 8px;">
 
 </div>
 
