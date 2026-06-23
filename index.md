@@ -4,7 +4,7 @@
 
 🔗 [LinkedIn]([url](https://www.linkedin.com/in/annie-zhou-aabb09168/))
 
-I am an incoming PhD student in Curriculum and Instruction at the University of Wisconsin–Madison under the supervision of Prof. Matthew Berland.
+I am an incoming Ph.D. student in Curriculum and Instruction at the University of Wisconsin–Madison, advised by Prof. Matthew Berland. As a learner, designer, and educator, I am committed to designing meaningful and engaging learning experiences that support diverse learners across contexts.
 
 ## Research Interests
 
