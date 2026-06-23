@@ -21,4 +21,4 @@ I am an incoming PhD student in Curriculum and Instruction at the University of 
 
 ## CV
 
-You can find my CV here: [CV](Annie_Zhou./cv.pdf)
+You can find my CV here: [CV](Annie_Zhou_CV.pdf)
