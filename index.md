@@ -50,7 +50,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
   <a href="CTC.pdf">
-    <img src="CTC.jpeg" alt="CTC curriculum presentation thumbnail" style="width: 180px; border-radius: 8px;">
+    <img src="CTC.HEIC" alt="CTC curriculum presentation thumbnail" style="width: 180px; border-radius: 8px;">
   </a>
   <div>
     <p>
