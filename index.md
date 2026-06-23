@@ -19,20 +19,35 @@
 </div>
 
 
-## Research Interests
+<h2>Research Interests</h2>
 
-- Community-engaged learning
-- Culturally responsive mathematics education
-- Learning sciences and educational technology
+<ul>
+  <li>Community-engaged learning</li>
+  <li>Culturally responsive mathematics education</li>
+  <li>Learning sciences and educational technology</li>
+</ul>
 
-## Selected publications
+<h2>Selected Publications</h2>
 
-- **Zhou, A.**, Seefeldt, K., Hui, J., Bare, C., Sanifu, L., & Dillahunt, T. R. (2026). A community-engaged curriculum design model for culturally responsive tech consulting. _Proceedings of the 20th International Conference of the Learning Sciences (ICLS 2026). Irvine, USA: International Society of the Learning Sciences._
+<ul>
+  <li>
+    <strong>Zhou, A.</strong>, Seefeldt, K., Hui, J., Bare, C., Sanifu, L., &amp; Dillahunt, T. R. (2026). A community-engaged curriculum design model for culturally responsive tech consulting. 
+    <em>Proceedings of the 20th International Conference of the Learning Sciences (ICLS 2026). Irvine, USA: International Society of the Learning Sciences.</em>
+  </li>
 
-- **Zhou, A.** (2026, April). _Student Self-Positioning and the Development of Mathematical Competencies._ Roundtable session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).
+  <li>
+    <strong>Zhou, A.</strong> (2026, April). 
+    <em>Student Self-Positioning and the Development of Mathematical Competencies.</em> Roundtable session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).
+  </li>
 
-- Quintana, R. M. & **Zhou, A.** (2026, April). _Using affordance analysis to strategize the integration of AI-generated instructor avatars within MOOCs._ Poster session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).
+  <li>
+    Quintana, R. M., &amp; <strong>Zhou, A.</strong> (2026, April). 
+    <em>Using affordance analysis to strategize the integration of AI-generated instructor avatars within MOOCs.</em> Poster session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).
+  </li>
+</ul>
 
-## CV
+<h2>CV</h2>
 
-You can find my CV here: [CV](Annie_Zhou_CV.pdf)
+<p>
+  You can find my CV here: <a href="Annie_Zhou_CV.pdf">CV</a>.
+</p>
