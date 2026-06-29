@@ -4,7 +4,7 @@
 
     <h1>Annie (Chenxi) Zhou</h1>
 
-    <p>📧 Email: annie.zhou@wisc.edu</p>
+    <p>📧 Email: annie.zhou (at) wisc (dot) edu</p>
 
     <p>🔗 <a href="https://www.linkedin.com/in/annie-zhou-aabb09168/">LinkedIn</a></p>
 
